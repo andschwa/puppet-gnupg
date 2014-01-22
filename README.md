@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/andschwa/puppet-gnugpg.png?branch=master)](https://travis-ci.org/andschwa/puppet-gnupg)
 
-Include this module to install GnuPG through homebrew.
+Include this module to install GnuPG through homebrew. Everyone needs
+encryption.
 
 It installs `gnupg`, not `gnupg2`; the former is statically compiled
 while the latter is built against external libraries and would require
